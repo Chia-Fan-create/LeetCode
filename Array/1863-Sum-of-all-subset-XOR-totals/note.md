@@ -1,9 +1,11 @@
 # Problem: [Sum of All Subset XOR Totals] ([LeetCode 1863](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/?envType=problem-list-v2&envId=array))
 
-## Problem Summary
+### Problem Summary
 
-The operation rule of XOR is:
-for each binary bit, when the corresponding bits of the two numbers are the same, the result is 0; otherwise, the result is 1.
+- The operation rule of XOR ( ^ )is: \
+ For each binary bit, when the corresponding bits of the two numbers are the same, the result is 0; otherwise, the result is 1.
+- The operation rule of OR ( | )is: \
+ For each binary bit, when the corresponding bits of both numbers are 0, the result is 0; otherwise, the result is 1.
 
 ### Example
 Example 1:
@@ -38,31 +40,21 @@ Explanation: The sum of all XOR totals for every subset is 480.
 
 ---
 
-## Thought Process
+### Thought Process
 - It's too hard for me and it's my first time to learn about XOR
 
 ---
 
-## Attempts
+### Attempts
 - **First attempt:**
-- try to build the binary of num in array.
+    - Try to build the binary of num in array.
 
 ---
 
-## Final Solution
-- Explanation of the chosen approach.
-- Why it works.
-- Time Complexity: O(...)
-- Space Complexity: O(...)
+### Optimizations (Optional)
+- Bit Manipulation 
 
 ---
 
-## Optimizations (Optional)
-- Could this be improved further? 
-- Alternative approaches you found from editorial or discussions.
-
----
-
-## Takeaways
-- What you learned from this problem.
-- Common patterns or tricks to remember for the future.
+### What I learned from this problem:
+- XOR and Bit Manipulation

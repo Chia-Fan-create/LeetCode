@@ -5,8 +5,8 @@ The goal is to track my progress, improve problem-solving skills, and build a re
 
 ---
 
-## 📂 Repository Structure
-
+### 📂 Repository Structure
+```
 leetcode-practice/
 │
 ├── README.md # Overview of the repository
@@ -21,11 +21,11 @@ leetcode-practice/
 │ │ └── notes.md
 │ │
 │ └── ...
-
+```
 
 ---
 
-## 📝 Notes Format
+### 📝 Notes Format
 
 Each `notes.md` file follows a simple template:
 
@@ -38,7 +38,7 @@ Each `notes.md` file follows a simple template:
 
 ---
 
-## 🚀 Goals
+### 🚀 Goals
 - Practice consistently and cover a variety of topics.  
 - Learn different solution strategies (brute force → optimized).  
 - Document mistakes and lessons to avoid repeating them.  
@@ -46,11 +46,11 @@ Each `notes.md` file follows a simple template:
 
 ---
 
-## 🛠 Languages Used
+### 🛠 Languages Used
 - Python (mainly)  
 - [Plan to include Java/SQL later]  
 
 ---
 
-## 📌 Reference
+### 📌 Reference
 - [LeetCode](https://leetcode.com/) — Online platform for coding practice.  
