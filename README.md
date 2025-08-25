@@ -27,7 +27,7 @@ leetcode-practice/
 
 ### 📝 Notes Format
 
-Each `notes.md` file follows a simple template:
+Each `README.md` file follows a simple template:
 
 - **Problem Summary**: Short description, input/output format, examples.  
 - **Thought Process**: Initial ideas, patterns observed.  
@@ -47,8 +47,8 @@ Each `notes.md` file follows a simple template:
 ---
 
 ### 🛠 Languages Used
-- Python (mainly)  
-- [Plan to include Java/SQL later]  
+- Python, Java (mainly)  
+- [Plan to include SQL later]  
 
 ---
 
